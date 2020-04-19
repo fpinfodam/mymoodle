@@ -1,0 +1,5 @@
+Execute scheduled task: Limpiar la Papelera de reciclaje del curso (tool_recyclebin\task\cleanup_course_bin)
+... started 15:30:10. Current memory use 18.3MB.
+... used 1 dbqueries
+... used 0.080847978591919 seconds
+Scheduled task complete: Limpiar la Papelera de reciclaje del curso (tool_recyclebin\task\cleanup_course_bin)

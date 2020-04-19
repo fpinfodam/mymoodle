@@ -1,0 +1,5 @@
+Execute scheduled task: Indexado de búsqueda global (core\task\search_index_task)
+... started 15:30:09. Current memory use 18.3MB.
+... used 0 dbqueries
+... used 0.019651889801025 seconds
+Scheduled task complete: Indexado de búsqueda global (core\task\search_index_task)

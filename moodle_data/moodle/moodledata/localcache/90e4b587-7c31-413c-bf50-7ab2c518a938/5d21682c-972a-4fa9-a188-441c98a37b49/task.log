@@ -1,0 +1,8 @@
+Execute scheduled task: Synchronise self enrolments task (enrol_self\task\sync_enrolments)
+... started 15:30:12. Current memory use 23MB.
+Verifying self-enrolments...
+...user self-enrolment updates finished.
+No expired enrol_self enrolments detected
+... used 2 dbqueries
+... used 0.12835597991943 seconds
+Scheduled task complete: Synchronise self enrolments task (enrol_self\task\sync_enrolments)

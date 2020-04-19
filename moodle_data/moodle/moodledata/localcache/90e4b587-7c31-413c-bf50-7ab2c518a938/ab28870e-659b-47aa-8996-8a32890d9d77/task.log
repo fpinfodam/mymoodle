@@ -1,0 +1,7 @@
+Execute scheduled task: Insignias del premio (core\task\badges_cron_task)
+... started 15:30:13. Current memory use 23.4MB.
+Started reviewing available badges.
+Badges were issued 0 time(s).
+... used 1 dbqueries
+... used 0.054875135421753 seconds
+Scheduled task complete: Insignias del premio (core\task\badges_cron_task)

@@ -1,0 +1,5 @@
+Execute scheduled task: Preparar los envíos para la anotación (assignfeedback_editpdf\task\convert_submissions)
+... started 15:30:10. Current memory use 18.4MB.
+... used 1 dbqueries
+... used 0.78776597976685 seconds
+Scheduled task complete: Preparar los envíos para la anotación (assignfeedback_editpdf\task\convert_submissions)

@@ -1,0 +1,6 @@
+Execute scheduled task: Manual enrolment send expiry notifications task (enrol_manual\task\send_expiry_notifications)
+... started 15:30:12. Current memory use 22.8MB.
+manual enrolment expiry notifications were already sent today at Sunday, 19 de April de 2020, 14:13.
+... used 0 dbqueries
+... used 0.097487926483154 seconds
+Scheduled task complete: Manual enrolment send expiry notifications task (enrol_manual\task\send_expiry_notifications)

@@ -1,0 +1,5 @@
+Execute scheduled task: Eliminar entradas de caché expiradas (core\task\cache_cleanup_task)
+... started 15:30:08. Current memory use 15.7MB.
+... used 1 dbqueries
+... used 0.034074068069458 seconds
+Scheduled task complete: Eliminar entradas de caché expiradas (core\task\cache_cleanup_task)

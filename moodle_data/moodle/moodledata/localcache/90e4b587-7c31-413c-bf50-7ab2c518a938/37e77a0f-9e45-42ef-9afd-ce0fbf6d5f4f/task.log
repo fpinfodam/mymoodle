@@ -1,0 +1,7 @@
+Execute scheduled task: Synchronise manual enrolments task (enrol_manual\task\sync_enrolments)
+... started 15:30:11. Current memory use 22.7MB.
+Verifying manual enrolment expiration...
+...manual enrolment updates finished.
+... used 0 dbqueries
+... used 0.026851177215576 seconds
+Scheduled task complete: Synchronise manual enrolments task (enrol_manual\task\sync_enrolments)

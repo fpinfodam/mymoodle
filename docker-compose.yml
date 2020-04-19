@@ -1,0 +1,36 @@
+version: '2'
+services:
+  mariadb:
+    image: ${REGISTRY_HOST}/mariadb10
+    build:
+      context: ./bin/mariadb10
+    environment:
+      - MARIADB_USER=${MARIADB_USER}
+      - MARIADB_DATABASE=${MARIADB_DATABASE}
+      - ALLOW_EMPTY_PASSWORD=${MARIABD_EPWD}
+    volumes:
+      - './mariadb_data:/bitnami'
+  moodle:
+    image: ${REGISTRY_HOST}/moodle3
+    build:
+      context: ./bin/moodle3
+    environment:
+      - MARIADB_HOST=${MARIADB_HOST}
+      - MARIADB_PORT_NUMBER=${MARIADB_PORT_NUMBER}
+      - MOODLE_DATABASE_USER=${MOODLE_DATABASE_USER}
+      - MOODLE_DATABASE_NAME=${MOODLE_DATABASE_NAME}
+      - ALLOW_EMPTY_PASSWORD=${MOODLE_EPWD}
+    ports:
+      - '8020:80'
+      - '447:443'
+    volumes:
+      - './moodle_data:/bitnami'
+      #- './moodle_config:/opt/bitnami/apache/conf/vhosts'
+      #- './moodle_www:/opt/bitnami/moodle'
+    depends_on:
+      - mariadb
+#volumes:
+#  mariadb_data:
+#    driver: local
+#  moodle_data:
+#    driver: local

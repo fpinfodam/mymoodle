@@ -1,0 +1,6 @@
+Execute scheduled task: Self enrolment send expiry notifications task (enrol_self\task\send_expiry_notifications)
+... started 15:30:13. Current memory use 23.2MB.
+self enrolment expiry notifications were already sent today at Sunday, 19 de April de 2020, 14:13.
+... used 0 dbqueries
+... used 0.0022430419921875 seconds
+Scheduled task complete: Self enrolment send expiry notifications task (enrol_self\task\send_expiry_notifications)

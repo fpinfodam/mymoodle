@@ -1,0 +1,5 @@
+Execute scheduled task: Refrescar los símbolos OAuth para los servicios de cuenta (core\oauth2\refresh_system_tokens_task)
+... started 15:30:08. Current memory use 16.5MB.
+... used 1 dbqueries
+... used 0.2374119758606 seconds
+Scheduled task complete: Refrescar los símbolos OAuth para los servicios de cuenta (core\oauth2\refresh_system_tokens_task)

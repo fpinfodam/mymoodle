@@ -1,0 +1,6 @@
+Execute scheduled task: Procesamiento en segundo plano para enviar notificaciones de insignias (core\task\badges_message_task)
+... started 15:30:13. Current memory use 23.7MB.
+Sending scheduled badge notifications.
+... used 1 dbqueries
+... used 0.0049729347229004 seconds
+Scheduled task complete: Procesamiento en segundo plano para enviar notificaciones de insignias (core\task\badges_message_task)

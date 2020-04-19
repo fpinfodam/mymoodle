@@ -1,0 +1,5 @@
+Execute scheduled task: Limpiar la Papelera de reciclaje de la categoría (tool_recyclebin\task\cleanup_category_bin)
+... started 15:30:10. Current memory use 18.3MB.
+... used 1 dbqueries
+... used 0.010770797729492 seconds
+Scheduled task complete: Limpiar la Papelera de reciclaje de la categoría (tool_recyclebin\task\cleanup_category_bin)
